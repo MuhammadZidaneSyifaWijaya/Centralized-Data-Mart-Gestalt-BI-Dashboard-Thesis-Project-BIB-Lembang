@@ -1,4 +1,5 @@
-# 🐄 Centralized Data Mart & Gestalt BI Dashboard — Thesis Project (BIB Lembang)
+# 🐄 Livestock Maintenance Data Mart & Service Power BI Dashboards - Thesis Project | Balai Inseminasi Buatan Lembang
+
 
 ![Pelayanan](Screenshots/Dashboard%20Pelayanan.png)
 ![Pemeliharaan Ternak](Screenshots/Dashboard%20Pemeliharaan%20Ternak.png)
